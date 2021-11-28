@@ -1,5 +1,7 @@
 # BNDES - EQUIPE 10
 
+[![GitHub](https://img.shields.io/github/license/hiromiricardo/BNDES_EQUIPE10)](https://github.com/hiromiricardo/BNDES_EQUIPE10/blob/main/LICENSE)
+
 
 
 ## SOBRE O PROJETO
